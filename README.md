@@ -1,5 +1,5 @@
 # AUTOMACAO-SIMPLES-COM-CYPRESS
-Automatizar funcionalidades simples com o Cypress para ver como ele se comporta.
+### Automatizar funcionalidades simples com o Cypress para ver como ele se comporta.
 >Cadastro de usuário, usando o Faker para produzir massa de dados, ao invés de ficar mudando manualmente os dados que quero cadastrar.
 >---
 ## Instalando o Cypress
@@ -25,12 +25,12 @@ pnpm add cypress --save-dev
 - Link da documentação  cypress caso haja dúvidas de como prosseguir <a href="https://on.cypress.io">Documentation</a> |
 - - ---
 
-### Tipos de testes 🤖
+## Tipos de testes 🤖
 
 - Teste funcional: Com o intuito de simular um cadastro de um cliente ou interessado
 
 - - ---
-### Casos de testes📍
+## Casos de testes📍
 
 📄 1- VAMOS ABRIR O SITE: https://front.serverest.dev/login</BR>
 📄 2- CLICAR NO BOTÃO "CADASTRAR-SE"</BR>
