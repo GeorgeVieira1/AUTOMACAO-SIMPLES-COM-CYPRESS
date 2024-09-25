@@ -1,7 +1,29 @@
 # AUTOMACAO-SIMPLES-COM-CYPRESS
 Automatizar funcionalidades simples com o Cypress para ver como ele se comporta.
->Cadastro de usuário usando o Faker para produzir massa de dados, ao invéz de ficar mudando manualmente os dados que quero cadastrar.
+>Cadastro de usuário, usando o Faker para produzir massa de dados, ao invés de ficar mudando manualmente os dados que quero cadastrar.
 >---
+## Instalando o Cypress
+
+[![npm version](https://badge.fury.io/js/cypress.svg)](https://badge.fury.io/js/cypress)
+
+Instalação do Cypress para Mac, Linux, ou Windows, onde [get started](https://on.cypress.io/install).
+
+```bash
+npm install cypress --save-dev
+```
+or
+```bash
+yarn add cypress --dev
+```
+or
+```bash
+pnpm add cypress --save-dev
+```
+
+![installing-cli e1693232](./assets/cypress-installation.gif)
+
+- Link da documentação  cypress caso haja dúvidas de como prosseguir <a href="https://on.cypress.io">Documentation</a> |
+- - ---
 
 ### Tipos de testes 🤖
 
@@ -18,3 +40,14 @@ Automatizar funcionalidades simples com o Cypress para ver como ele se comporta.
 📄 6- CHECAR A MENSAGEM "CADASTRO REALIZADO COM SUCESSO"</BR>
 📄 7- EM SEGUIDA IRÁ ABRIR A HOME PAGE</BR>
 📄 8- CHECAR O TEXTO "PRODUTOS" NA TELA.</BR>
+- - ---
+
+
+
+
+
+
+
+
+
+
