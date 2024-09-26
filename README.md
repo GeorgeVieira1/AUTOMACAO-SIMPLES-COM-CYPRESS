@@ -4,7 +4,8 @@
 >Ferramentas:
 ** Visual Studio Code
 ** NodeDJ
-** Cypress
+** Cypress</p>
+Não é um tutorial, é apenas um registro pessoal mostrando uma forma direta de simular um trbalho de automação simples.
 >---
 ## Instalando o Cypress
 
@@ -52,6 +53,8 @@ pnpm add cypress --save-dev
 ![image](https://github.com/user-attachments/assets/c0786a6d-8490-4b38-b456-a9e457dad227)
 
 
+- - ---
+### Executando o teste ⚙️
 [Screencast 2024-09-25 20:33:46.webm](https://github.com/user-attachments/assets/518ec140-a022-4b4a-84cc-a447fb6c528f)
 
 
