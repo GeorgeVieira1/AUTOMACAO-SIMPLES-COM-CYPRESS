@@ -1,6 +1,6 @@
 # AUTOMACAO-SIMPLES-COM-CYPRESS
 ### Automatizar funcionalidades simples com o Cypress para ver como ele se comporta.
->Cadastro de usuário, usando o Faker para produzir massa de dados, ao invés de ficar mudando manualmente os dados que quero cadastrar.
+>Cadastro de usuário, usando o Faker para produzir massa de dados, ao invés de ficar mudando manualmente os dados que quero cadastrar.</p>
 >Ferramentas:
 ** Visual Studio Code
 ** NodeDJ
